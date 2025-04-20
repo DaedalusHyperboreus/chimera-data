@@ -3730,6 +3730,11 @@
   banner: steam:1544360
   status: unsupported
 
+- name: "LEGO City Undercover"
+  platform: steam
+  id: 578330
+  status: unsupported
+
 - name: "LEGO Marvel Super Heroes 2"
   platform: steam
   id: 647830
